@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there 👋
 
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

@@ -1,6 +1,6 @@
 # Hey there, I'm Nikhil Wani 👋
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/nikhil_wani05">
+<a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">

@@ -1,6 +1,6 @@
 # Hey there, I'm Nikhil Wani 👋
 
-&nbsp;&nbsp;<a href="https://twitter.com/nikhil_wani05">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">
@@ -18,11 +18,11 @@
 <br/>
 <br/>
 
-🔭 I’m currently Studying  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning Python
+🔭 I’m currently Studying  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning Python
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">Linkedin</a>  &nbsp;&nbsp;&nbsp;  💬 Ask me about Anything
 
-😄 Pronouns: He/His  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fact: Loves to Travel..
+😄 Pronouns: He/His  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fact: Loves to Travel..
 
  
 ### About

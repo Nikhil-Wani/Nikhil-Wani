@@ -29,7 +29,7 @@ Now I'm further expanding my knowledge in developing, implementing and integrati
 
 
 
-
+<--
 
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
 - 🌱 I’m currently learning more about BlockChain.
@@ -78,7 +78,7 @@ Now I'm further expanding my knowledge in developing, implementing and integrati
 
 
 
-
+-->
 
 
 

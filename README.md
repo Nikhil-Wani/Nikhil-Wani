@@ -16,7 +16,13 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
-<br/>
+
+- 🔭 I’m currently Studying
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Anything
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">Linkedin</a>
+- 😄 Pronouns: He/His
+- ⚡ Fact: Loves to Travel.. 
 
 ### About
 
@@ -26,42 +32,7 @@ This passion carried me through my education. I studied new languages, algorithm
 
 Now I'm further expanding my knowledge in developing, implementing and integrating new application with Technical Proficiency C, C++, Java,Python, Cloud Computing.
 
-
-
-
-
-
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-
-
-
-
-
-
-
 <!--
-**Nikhil-Wani/Nikhil-Wani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

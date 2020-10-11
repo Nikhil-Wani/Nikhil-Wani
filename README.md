@@ -17,8 +17,6 @@ Now I'm further expanding my knowledge in developing, implementing and integrati
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-
-<br/>
 <br/>
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

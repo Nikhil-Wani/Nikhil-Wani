@@ -21,7 +21,7 @@ I'm a Electronics and Telecommunications Engineer whose passion lies in computer
 
 ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  
 
-### Contact
+### Contact info:
 
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

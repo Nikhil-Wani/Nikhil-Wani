@@ -1,5 +1,6 @@
 # Hey there, I'm Nikhil Wani 👋
 
+
 🔭 I’m currently Studying  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning Python
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">Linkedin</a>  &nbsp;&nbsp;&nbsp;  💬 Ask me about Anything
@@ -13,10 +14,6 @@ I'm a Electronics and Telecommunications Engineer whose passion lies in computer
 
 Now I'm further expanding my knowledge in developing, implementing and integrating new application with Technical Proficiency C, C++, Java,Python, Cloud Computing.
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
 <br/>
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

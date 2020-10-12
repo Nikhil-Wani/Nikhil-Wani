@@ -1,4 +1,4 @@
-# Hey there, I'm Nikhil Wani 👋
+# I'm Nikhil Wani
 <br/>
 
 🔭 I’m currently Studying  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning Python

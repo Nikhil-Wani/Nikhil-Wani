@@ -14,6 +14,13 @@ I'm a Electronics and Telecommunications Engineer whose passion lies in computer
 
 Now I'm further expanding my knowledge in developing, implementing and integrating new application with Technical Proficiency C, C++, Java,Python, Cloud Computing.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nikhil-Wani)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Wani)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  
 <br/>
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

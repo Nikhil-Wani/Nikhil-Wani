@@ -14,7 +14,7 @@ I'm a Electronics and Telecommunications Engineer whose passion lies in computer
 
 ### Skills
 
- C, C++, Java,Python, Cloud Computing.
+ C / C++ / Java / Python / Cloud Computing.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
 

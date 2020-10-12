@@ -16,6 +16,7 @@ Now I'm further expanding my knowledge in developing, implementing and integrati
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
 
+![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  
 
 <br/>
 <a href="https://twitter.com/nikhil_wani05">
@@ -34,4 +35,3 @@ Now I'm further expanding my knowledge in developing, implementing and integrati
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  

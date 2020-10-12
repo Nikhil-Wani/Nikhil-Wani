@@ -14,10 +14,14 @@ I'm a Electronics and Telecommunications Engineer whose passion lies in computer
 ### Skills
 
  C / C++ / Java / Python / Cloud Computing.
+ 
+ ### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  
+
+### Contact
 
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

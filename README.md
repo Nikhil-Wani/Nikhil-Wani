@@ -12,7 +12,9 @@
 
 I'm a Electronics and Telecommunications Engineer whose passion lies in computer programming. In my work as an engineer I've had to use a lot of counter intuitive software. Curious as to why these programs worked the way they do, I started learning how to code. As i started learning I've came across many technologies. One that amazed me is how an AI provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
-Now I'm further expanding my knowledge in developing, implementing and integrating new application with Technical Proficiency C, C++, Java,Python, Cloud Computing.
+### Skills
+
+ C, C++, Java,Python, Cloud Computing.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
 

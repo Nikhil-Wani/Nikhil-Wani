@@ -1,5 +1,4 @@
-# Nikhil Wani
-<br/>
+# NIKHIL WANI
 
 🔭 I’m currently Studying  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning Python
 

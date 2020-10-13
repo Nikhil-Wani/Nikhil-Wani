@@ -18,7 +18,7 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
 
- ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  
+ <!-- ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  -->
 
 ### Contact info
 

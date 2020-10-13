@@ -12,7 +12,7 @@
 
 ### Skills
 
-&nbsp;&nbsp; C / C++ / Java / Python / Cloud Computing.
+&nbsp;&nbsp; C / C++ / Java / Python / R / SQL /Cloud Computing.
  
  ### Stats
 

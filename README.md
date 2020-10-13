@@ -16,12 +16,12 @@
  
  ### Stats
 
-&nbsp;&nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
 
-&nbsp;&nbsp;  ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  
+ ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  
 
 ### Contact info
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

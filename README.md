@@ -23,7 +23,7 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
 ### Contact info
 
 <a href="https://twitter.com/nikhil_wani05">
-  <img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -39,6 +39,6 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
 </a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/story/10757806)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' width="22px">](https://stackoverflow.com/users/https://stackoverflow.com/users/story/10757806)  
 
 

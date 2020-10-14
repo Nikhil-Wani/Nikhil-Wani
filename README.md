@@ -20,7 +20,7 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
 
  <!-- ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  -->
 
-### Contact info
+### Contact
 
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

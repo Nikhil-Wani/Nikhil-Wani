@@ -37,8 +37,9 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
 <a href="https://www.facebook.com/nikhil.wani.735">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/story/10757806">
+   <img align="left" alt="Facebook" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />
+</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' width="22px">](https://stackoverflow.com/users/https://stackoverflow.com/users/story/10757806)  
 
 

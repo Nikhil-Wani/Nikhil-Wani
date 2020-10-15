@@ -1,8 +1,12 @@
 # NIKHIL WANI
 
-![banner](untitled.png)
+<p align="center">
+  <img src="untitled.png" width="500" title="hover text">
+</p>
 
 <!--
+
+
 🔭 I’m currently Studying  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning Python
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">Linkedin</a>  &nbsp;&nbsp;&nbsp;  💬 Ask me about Anything

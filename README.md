@@ -40,4 +40,3 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
 <a href="https://stackoverflow.com/users/10757806/nikhil-wani?tab=profile">
    <img align="left" alt="Facebook" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />
 </a>
-

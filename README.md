@@ -13,6 +13,37 @@
 ### Skills
 
 C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
+
+<h3 align="left">Languages and Tools:</h3>
+
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="22px" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="22px" height="40"/> </a>  </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22px" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="22px" height="40"/>  <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="22px" height="40"/>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22px" height="40"/> </a>  </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="22px" height="40"/> </a>   <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="22px" height="40"/> </a>  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="22px" height="40"/> </a>  <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="22px" height="40"/> </a> 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ </p>
+
+
  
  ### Stats
 
@@ -40,3 +71,5 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing .
 <a href="https://stackoverflow.com/users/10757806/nikhil-wani?tab=profile">
    <img align="left" alt="Facebook" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />
 </a>
+<a href="https://dev.to/nikhilwani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>
+<a href="https://kaggle.com/nikhilwani05" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nikhilwani05" height="30" width="22px" /></a>

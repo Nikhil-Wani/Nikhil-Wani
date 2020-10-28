@@ -1,4 +1,4 @@
-# Hey I'm NIKHIL WANI
+# Nikhil Wani
 
 ### About
 

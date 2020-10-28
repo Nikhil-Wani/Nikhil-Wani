@@ -15,7 +15,9 @@
 
  ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Wani&theme=tokyonight&align=right)
 
  <!-- ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  -->
 

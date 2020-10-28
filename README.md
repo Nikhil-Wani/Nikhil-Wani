@@ -1,4 +1,4 @@
-# <i>NIKHIL WANI</i>
+# NIKHIL WANI
 
 ### About
 

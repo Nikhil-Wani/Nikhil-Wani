@@ -43,10 +43,10 @@
   <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/220/220200.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10757806/nikhil-wani?tab=profile">
-   <img align="left" alt="Facebook" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />
+   <img align="left" alt="Facebook" width="32px"  src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' />
 </a>
 <a href="https://dev.to/nikhilwani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nikhilwani05" height="30" width="22px" /></a>
 
-
-
+https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg
+https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png

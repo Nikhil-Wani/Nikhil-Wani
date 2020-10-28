@@ -27,14 +27,14 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing
 
 ### Contact
 
+<a href="https://github.com/Nikhil-Wani">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <a href="https://twitter.com/nikhil_wani05">
   <img align="left" alt="twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">
   <img align="left" alt="Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-</a>
-<a href="https://github.com/Nikhil-Wani">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/nikhil_wani_005/">
   <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />

@@ -40,13 +40,16 @@ C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing
   <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 <a href="https://www.facebook.com/nikhil.wani.735">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/220/220200.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10757806/nikhil-wani?tab=profile">
    <img align="left" alt="Facebook" width="22px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' />
 </a>
 <a href="https://dev.to/nikhilwani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nikhilwani05" height="30" width="22px" /></a>
+
+
+https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 
 <!--

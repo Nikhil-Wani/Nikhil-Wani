@@ -1,8 +1,8 @@
 
-### Nikhil Wani
+### NIKHIL WANI
 <i> I'm a Electronics and Telecommunications Engineer whose passion lies in computer programming. In my work as an engineer I've had to use a lot of counter intuitive software. Curious as to why these programs worked the way they do, I started learning how to code. As i started learning I've came across many technologies. One that amazed me is how an AI provides systems the ability to automatically learn and improve from experience without being explicitly programmed.</i>
 
-### Skills
+### SKILLS
 
 <i>C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing </i>
 <!--
@@ -11,13 +11,13 @@
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>    <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 -->
 
- ### Stats
+ ### STATS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)  
 
  <!-- ![Profile views](https://gpvc.arturio.dev/Nikhil-Wani)  -->
 
-### Contact
+### FIND ME ON
 
 <a href="https://github.com/Nikhil-Wani">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />

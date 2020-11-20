@@ -1,6 +1,7 @@
 
 ### NIKHIL WANI
 
+<img src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/untitled.png" width="875" height="300">
 
 ![alt text](https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/untitled.png)
 

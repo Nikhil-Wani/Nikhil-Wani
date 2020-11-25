@@ -39,3 +39,17 @@
 </a>
 <a href="https://dev.to/nikhilwani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="left" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Nikhil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Nikhil GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Wani" />
+
+</details>

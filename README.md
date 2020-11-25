@@ -42,9 +42,9 @@
 <br>
 <br>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Trophies</summary>
 
-  <img align="left" alt="Nikhil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&show_icons=true&hide_border=true" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-wani" alt="nikhil-wani" /></a> </p>
 
 </details>
 

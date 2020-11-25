@@ -42,12 +42,12 @@
 <br>
 <br>
 <details>
-  <summary>:zap: GitHub Trophies</summary>
+  <summary>:zap: <i>GitHub Trophies</i></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-wani" alt="nikhil-wani" /></a> </p>
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: <i>Most Used Languages</i></summary>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-wani&show_icons=true&locale=en&layout=compact" alt="nikhil-wani" /></p>
 

@@ -5,7 +5,9 @@
 ### Skills
 
 <i>C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing.</i>
+
 <i>Working Platforms : Windows, Linux, Mac Os.<i>
+
 <i>Tool's : VS Code, Jupyter Notebook, Anaconda,Git.<i>
 <!--
 <h3 align="left">Languages and Tools:</h3>

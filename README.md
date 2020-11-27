@@ -4,7 +4,7 @@
 
 ### Skills
 
-<i>C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / Cloud Computing.</i>
+<i>Programing Languages : C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / GCP.</i>
 
 <i>Working Platforms : Windows, Linux, Mac Os.<i>
 

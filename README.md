@@ -20,8 +20,7 @@
  ### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)  
-![image alt >](/)
-
+<img align = "right"; "src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/1516430695945708229computer-programmer-clipart-free.med.png">
 
 ### Contact
 

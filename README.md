@@ -12,7 +12,7 @@
 
 <i>Tool's : VS Code, Jupyter Notebook, Anaconda,Git.<i>
   <p>
-  <img width="250" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/1516430695945708229computer-programmer-clipart-free.med.png?raw=true">
+  <img width="250" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/my.png?raw=true">
 </p>
 
 <!--

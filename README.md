@@ -12,7 +12,7 @@
 
 <i>Tool's : VS Code, Jupyter Notebook, Anaconda,Git.<i>
   <p>
-  <img width="400 align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/7-ways-to-define-tuple-elements-in-c.gif?raw=true">
+  <img width="400" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/7-ways-to-define-tuple-elements-in-c.gif?raw=true">
 </p>
 
 <!--

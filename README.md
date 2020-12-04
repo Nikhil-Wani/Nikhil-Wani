@@ -58,7 +58,7 @@
 
 ---
 
-### ON GITHUB
+### Github
 
 <details>
   <summary>:zap: <i>GitHub Trophies</i></summary>

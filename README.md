@@ -53,11 +53,11 @@
 <a href="https://dev.to/nikhilwani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="left" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
 
+
+
+<br>
+<br>
 ---
-
-<br>
-<br>
-
 <details>
   <summary>:zap: <i>GitHub Trophies</i></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-wani" alt="nikhil-wani" /></a> </p>

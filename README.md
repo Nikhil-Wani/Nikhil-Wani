@@ -4,6 +4,8 @@
 
 <a href="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/Nikhil's%20Resume%202.pdf"><i>You can find my Resume here</i></a>
 
+---
+
 ### Skills
 
 <i>Programing Languages : C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / GCP.</i>

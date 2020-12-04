@@ -17,6 +17,7 @@
   <img width="300" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/7-ways-to-define-tuple-elements-in-c.gif?raw=true">
 </p>
 
+---
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft<i>azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
@@ -25,7 +26,9 @@
 
  ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)                                                                                 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)         
+
+---
 
 ### Contact
 
@@ -49,6 +52,8 @@
 </a>
 <a href="https://dev.to/nikhilwani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="left" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
+
+---
 
 <br>
 <br>

@@ -27,7 +27,8 @@
 
  ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)         
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)  
+
 ---
 
 ### Contact

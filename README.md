@@ -1,3 +1,4 @@
+---
 ### HEY THERE !!! I'M NIKHIL WANI <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ---
 ### About
@@ -69,3 +70,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-wani&show_icons=true&locale=en&layout=compact" alt="nikhil-wani" /></p>
 
 </details>
+---

@@ -27,7 +27,7 @@
 
 
   <p>
-  <img height="150" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/img.png?raw=true">
+  <img width="180" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/img.png?raw=true">
 </p>
 
 

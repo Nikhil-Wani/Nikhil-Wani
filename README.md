@@ -57,33 +57,6 @@
 
 ---
 
-### Contact
-
-<a href="https://github.com/Nikhil-Wani">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://twitter.com/nikhil_wani05">
-  <img align="left" alt="twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nikhil-wani-ba2360137/">
-  <img align="left" alt="Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
-</a>
-<a href="https://www.instagram.com/nikhil_wani_005/">
-  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
-</a>
-<a href="https://www.facebook.com/nikhil.wani.735">
-  <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/220/220200.svg" />
-</a>
-<a href="https://stackoverflow.com/users/10757806/nikhil-wani?tab=profile">
-   <img align="left" alt="Facebook" width="22px"  src='https://image.flaticon.com/icons/png/512/2111/2111628.png' />
-</a>
-<a href="https://dev.to/nikhilwani" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>
-<a href="https://kaggle.com/nikhilwani05" target="blank"><img align="left" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
-<br>
-<br>
-
----
-
 ### Github
 
 <details>

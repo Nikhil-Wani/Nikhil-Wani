@@ -24,6 +24,7 @@
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
 </p>
 
+https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/img.png
 
 
 <!--### About <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->

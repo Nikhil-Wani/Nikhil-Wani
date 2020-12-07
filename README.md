@@ -1,5 +1,5 @@
 <p>
-  <img align='center' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/nik%20banner.png?raw=true">
+  <img align='center' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/nik%20banner%20cr.png?raw=true">
 </p>
 <p align='center'>
 <a href="https://github.com/Nikhil-Wani">

@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/10757806/nikhil-wani?tab=profile">
    <img align="center" alt="Facebook" width="22px"  src='https://image.flaticon.com/icons/png/512/2111/2111628.png' />
 </a>&nbsp;
-<a href="https://dev.to/nikhilwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nikhilwani" height="30" width="22px" /></a>&nbsp;
+<a href="https://dev.to/nikhilwani"><img align="center" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png" /></a>&nbsp;
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
 </p>
 

@@ -1,5 +1,5 @@
 <p>
-  <img align='center' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/nik%20banner.png?raw=true">
+  <img height="185" align='center' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/nik%20banner.png?raw=true">
 </p>
 
 

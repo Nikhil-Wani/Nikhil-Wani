@@ -27,7 +27,7 @@
 
 
   <p>
-  <img height="185" width="320" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/7-ways-to-define-tuple-elements-in-c.gif?raw=true">
+  <img height="150" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/img.png?raw=true">
 </p>
 
 

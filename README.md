@@ -47,18 +47,17 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>&nbsp; <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>  &nbsp  <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
-
-
  ### Stats
   <p>
   <img width="200" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true">
 </p>
 
+<
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)  
-
+<details>
+  <summary>:zap: <i>GitHub Stats</i></summary>
+<p align="left"> <a href="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient"><img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient" alt="nikhil-wani" /></a> </p>
+</details>
 <details>
   <summary>:zap: <i>GitHub Trophies</i></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-wani" alt="nikhil-wani" /></a> </p>

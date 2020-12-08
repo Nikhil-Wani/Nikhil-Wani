@@ -48,16 +48,13 @@
 ---
 
  ### Stats
-  <p>
+ 
+ <p>
   <img width="200" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true">
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)  -->
-<details>
-  <summary>:zap: <i>GitHub Stats</i></summary>
-<p align="left"> <a href="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient"><img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient" alt="nikhil-wani" /></a> </p>
-</details>
 <details>
   <summary>:zap: <i>GitHub Trophies</i></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-wani" alt="nikhil-wani" /></a> </p>

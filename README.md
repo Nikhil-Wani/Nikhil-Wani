@@ -55,7 +55,7 @@
 
  ### Stats
   <p>
-  <img align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/Screenshot%202020-12-04%20004418.png?raw=true">
+  <img width="200" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true">
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)  

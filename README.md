@@ -48,7 +48,7 @@
 ---
 
  ### Stats
- Also Completed Hacktober Fest 
+ 
  <p>
   <img width="100" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true">
 </p>

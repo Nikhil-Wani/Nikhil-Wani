@@ -48,9 +48,9 @@
 ---
 
  ### Stats
- 
+ Also Completed Hacktober Fest 
  <p>
-  <img width="200" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true">
+  <img width="100" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true">
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)

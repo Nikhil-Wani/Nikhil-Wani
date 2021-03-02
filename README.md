@@ -46,11 +46,10 @@
 <i>Tool's : VS Code, Jupyter Notebook, Anaconda,Git.<i>
 
 ---
+ <p><img width="150" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true"></p>
 ### OpenSource Contribution Badge
 
- <p><img width="100" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true"></p>
- I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
-
+ I love open source. I am not a heavy maintainer of any large libraries, but I really like it. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library.
 ---
 
 ### Stats

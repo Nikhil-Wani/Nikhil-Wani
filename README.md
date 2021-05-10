@@ -60,7 +60,7 @@ https://nikhil-wani.github.io/My-Portfolio/
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&count_private=true&hide_border=false&show_icons=true&theme=dark" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&theme=gradient)
+
 
 <details>
   <summary>:zap: <i>GitHub Trophies</i></summary>
@@ -71,15 +71,4 @@ https://nikhil-wani.github.io/My-Portfolio/
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-wani&show_icons=true&locale=en&layout=compact" alt="nikhil-wani" /></p>
 </details>
 
-
-
-
-
-
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Wani&theme=tokyonight)
-
-![Sayantan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nikhil-Wani)
-
-

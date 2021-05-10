@@ -54,13 +54,6 @@ https://nikhil-wani.github.io/My-Portfolio/
 
 <i> I love open source. I am not a heavy maintainer of any large libraries, but I really like it. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library.</i>
 
-
-
-
-
-
-
-
 ---
 
 ### Stats
@@ -75,3 +68,18 @@ https://nikhil-wani.github.io/My-Portfolio/
   <summary>:zap: <i>Most Used Languages</i></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-wani&show_icons=true&locale=en&layout=compact" alt="nikhil-wani" /></p>
 </details>
+
+
+
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&count_private=true&hide_border=false&show_icons=true&theme=dark" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Wani&theme=tokyonight)
+
+![Sayantan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nikhil-Wani)
+
+![Sayantan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikhil-Wani)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nikhil-Wani)

@@ -1,6 +1,20 @@
 <p>
   <img align='center' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/nik%20banner%20cr.png?raw=true">
 </p>
+
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://kaggle.com/nikhilwani05)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/nikhil_wani05) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nikhil-wani-ba2360137/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@nikhilwani05)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/nikhil_wani_005/)
+
+</p>
+
+<!--
 <p align='center'>
 <a href="https://github.com/Nikhil-Wani">
   <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -23,7 +37,7 @@
 <a href="https://dev.to/nikhilwani"><img align="center" width="22px" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png" /></a>&nbsp;
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
 </p>
-
+-->
 
 
   <p>

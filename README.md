@@ -52,8 +52,6 @@
 https://nikhil-wani.github.io/Deployment-of-My-Portfolio/
 
 
-<img  src="borderseperator.gif">
-
 ### Skills
 
 <i>Programing Languages : C / C++ / Java / Python / R / GO / SQL / Mongodb / Nodejs / GCP.</i>
@@ -62,7 +60,7 @@ https://nikhil-wani.github.io/Deployment-of-My-Portfolio/
 
 <i>Tool's : VS Code, Jupyter Notebook, Anaconda,Git.</i>
 
-<img  src="borderseperator.gif">
+
  <p><img width="150" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true"></p>
  
 ### Open Source 

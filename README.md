@@ -1,7 +1,6 @@
 <p>
   <img align='center' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/nik%20banner%20cr.png?raw=true">
 </p>
-<img  src="borderseperator.gif">
 
 <p align = "center">
 
@@ -38,6 +37,8 @@
 <a href="https://kaggle.com/nikhilwani05" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="nikhilwani05" height="30" width="22px" /></a>
 </p>
 -->
+
+<img  src="borderseperator.gif">
 
 
   <p>

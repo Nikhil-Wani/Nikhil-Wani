@@ -1,7 +1,7 @@
 <p>
   <img align='center' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/nik%20banner%20cr.png?raw=true">
 </p>
-<img  src="assests/borderseperator.gif">
+<img  src="borderseperator.gif">
 
 <p align = "center">
 

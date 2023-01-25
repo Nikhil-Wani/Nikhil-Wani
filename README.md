@@ -25,7 +25,7 @@
 
 https://nikhil-wani.github.io/Deployment-of-My-Portfolio/
 
-
+---
 
 ### Skills
 
@@ -35,6 +35,8 @@ https://nikhil-wani.github.io/Deployment-of-My-Portfolio/
 
 <i>Tool's : VS Code, Jupyter Notebook, Anaconda,Git.</i>
 
+
+---
 
  <p><img width="150" align='right' src="https://github.com/Nikhil-Wani/Nikhil-Wani/blob/main/hacktoberfest.png?raw=true"></p>
 
@@ -51,7 +53,6 @@ https://nikhil-wani.github.io/Deployment-of-My-Portfolio/
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
 
 <img  src="borderseperator.gif">
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Wani&theme=tokyonight)
 

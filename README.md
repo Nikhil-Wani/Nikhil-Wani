@@ -48,12 +48,12 @@ https://nikhil-wani.github.io/Deployment-of-My-Portfolio/
 
 ### Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&count_private=true&hide_border=false&show_icons=true&theme=midnight_blue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Wani&count_private=true&hide_border=false&show_icons=true&theme=tokyonight" />
 
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Wani&theme=midnight_blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Wani&theme=tokyonight)
 
 
 <details>

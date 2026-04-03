@@ -23,7 +23,7 @@
 ### Hey There
 <i> I'm a Electronics and Telecommunications Engineer whose passion lies in computer programming. In my work as an engineer I've had to use a lot of counter intuitive software. Curious as to why these programs worked the way they do, I started learning how to code. As i started learning I've came across many technologies.This passion carried me through my education. I studied new languages, algorithms, technology, compilers. And it was here that i learned truly how much there was to learn yet.</i>
 
-https://nikhil-wani.github.io/Deployment-of-My-Portfolio/
+https://nikhil-wani.github.io
 
 ---
 
